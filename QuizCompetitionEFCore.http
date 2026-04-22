@@ -1,0 +1,6 @@
+@QuizCompetitionEFCore_HostAddress = http://localhost:5244
+
+GET {{QuizCompetitionEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
