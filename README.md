@@ -261,3 +261,7 @@ GitHub: [Daimx1214](https://github.com/Daimx1214)
 ## License
 
 This project is intended for educational and portfolio purposes.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daim_Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daimx1214/)
